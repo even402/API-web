@@ -20,7 +20,7 @@ Uma API para gerenciar o cardápio de um restaurante, construída com Node.js, E
 ### Passos
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/Felipe01001/Cardapio.git
+    git clone https://github.com/even402/Cardapio.git
     ```
 2. Instale as dependências:
     ```sh
